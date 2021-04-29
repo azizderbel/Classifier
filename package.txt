@@ -1,0 +1,12 @@
+pip uninstall PyQt5       [ or(PyQt5==5.9.2) ]
+pip install numpy
+pip install matplotlib
+pip install pandas
+pip install opencv-python==4.4.0.46
+pip install scikit-learn
+pip install scikit-image
+pip install imutils
+
+
+
+ 
